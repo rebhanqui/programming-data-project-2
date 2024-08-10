@@ -13,10 +13,10 @@
 # Data lines have no #
 #
 # NOAA_Landing_Page: https://www.ncei.noaa.gov/access/paleo-search/study/6080
-#   Landing_Page_Description: NOAA Landing Page of this file's parent study, which includes all study metadata.
+#   Landing_Page_Description: NOAA Landing Page of this file"s parent study, which includes all study metadata.
 #
 # Study_Level_JSON_Metadata: https://www.ncei.noaa.gov/pub/data/metadata/published/paleo/json/noaa-icecore-6080.json
-#   Study_Level_JSON_Description: JSON metadata of this data file's parent study, which includes all study metadata.
+#   Study_Level_JSON_Description: JSON metadata of this data file"s parent study, which includes all study metadata.
 #
 # Data_Type: Ice Cores
 #
@@ -43,7 +43,7 @@
 #   Investigators: Jouzel, J.; Masson-Delmotte, V.(https://orcid.org/0000-0001-8296-381X); Cattani, O.; Dreyfus, G.(https://orcid.org/0000-0002-5863-0924); Falourd, S.; Hoffmann, G.; Minster, B.; Nouet, J.; Barnola, J.-M.; Chappellaz, J.A.(https://orcid.org/0000-0002-9117-2961); Fischer, H.(https://orcid.org/0000-0002-2787-4221); Gallet, J.C.; Johnsen, S.J.; Leuenberger, M.(https://orcid.org/0000-0003-4299-6793); Loulergue, L.; Luethi, D.; Oerter, H.; Parrenin, F.(https://orcid.org/0000-0002-9489-3991); Raisbeck, G.M.; Raynaud, D.; Schilt, A.(https://orcid.org/0000-0001-6312-7947); Schwander, J.; Selmo, E.; Souchez, R.; Spahni, R.(https://orcid.org/0000-0002-4239-5130); Stauffer, B.; Steffensen, J.P.(https://orcid.org/0000-0002-5516-1093); Stenni, B.(https://orcid.org/0000-0003-4950-3664); Stocker, T.F.(https://orcid.org/0000-0003-1245-2728); Tison, J.L.; Werner, M.; Wolff, E.W.(https://orcid.org/0000-0002-5914-8531)
 #--------------------
 # Description_Notes_and_Keywords
-#   Description: High-resolution (55cm.) deuterium (dDice) profile from the EPICA Dome C Ice Core, Antarctica (75Âº 06' S, 123Âº 21' E), with an optimal accuracy of Â± 0.5 â€° (1 sigma), from the surface down to 3259.7 m. LAST UPDATE: 11/26/2007 (Replaced age model. This file now includes EDC3 age model.  Previous version of this file dated 10/16/2007 erroneously included the older EDC1-EDC2 age model).
+#   Description: High-resolution (55cm.) deuterium (dDice) profile from the EPICA Dome C Ice Core, Antarctica (75Âº 06" S, 123Âº 21" E), with an optimal accuracy of Â± 0.5 â€° (1 sigma), from the surface down to 3259.7 m. LAST UPDATE: 11/26/2007 (Replaced age model. This file now includes EDC3 age model.  Previous version of this file dated 10/16/2007 erroneously included the older EDC1-EDC2 age model).
 #--------------------
 # Publication
 #   Authors: Jouzel, J., V. Masson-Delmotte, O. Cattani, G. Dreyfus, S. Falourd, G. Hoffmann, B. Minster, J. Nouet, J.M. Barnola, J. Chappellaz, H. Fischer, J.C. Gallet, S. Johnsen, M. Leuenberger, L. Loulergue, D. Luethi, H. Oerter, F. Parrenin, G. Raisbeck, D. Raynaud, A. Schilt, J. Schwander, E. Selmo, R. Souchez, R. Spahni, B. Stauffer, J.P. Steffensen, B. Stenni, T.F. Stocker, J.L. Tison, M. Werner, and E.W. Wolff
@@ -103,7 +103,7 @@
 # PaST_Thesaurus_Download_Resource: https://www.ncei.noaa.gov/access/paleo-search/skos/past-thesaurus.rdf
 #   PaST_Thesaurus_Download_Description: Paleoenvironmental Standard Terms (PaST) Thesaurus terms, definitions, and relationships in SKOS format.
 #
-# Data variables follow that are preceded by '##' in columns one and two.
+# Data variables follow that are preceded by "##" in columns one and two.
 # Variables list, one per line, shortname-tab-var components: what, material, error, units, seasonality, data type, detail, method, C or N for Character or Numeric data)
 #
 ## Bag	sample identification,,,,,ice cores,,,N,Bag number (55 cm sample)

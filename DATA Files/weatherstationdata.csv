@@ -11,7 +11,7 @@ Carlow    ,        3115 ,TULLOW (HARDYMOUNT HSE.)         ,       79 , 284000 , 
 Carlow    ,        9914 ,M.BLACKSTAIRS MTNS.(KNOCKROE)    ,      539 , 282000 ,  149800 ,52.59306  ,-6.79028   ,1950      ,2000
 Carlow    ,        6114 ,POLLMOUNTY FISH FARM             ,       24 , 274500 ,  135545 ,52.46667  ,-6.90278   ,1987      ,(null)
 Carlow    ,        2214 ,LEIGHLINBRIDGE G.S.              ,       56 , 268900 ,  165200 ,52.73333  ,-6.98056   ,1944      ,1984
-Carlow    ,         514 ,CARLOW (BROWNE'S HILL)           ,       55 , 275400 ,  175800 ,52.82778  ,-6.88056   ,1866      ,1959
+Carlow    ,         514 ,CARLOW (BROWNE"S HILL)           ,       55 , 275400 ,  175800 ,52.82778  ,-6.88056   ,1866      ,1959
 Carlow    ,        1414 ,BAGENALSTOWN (FENAGH HSE.)       ,      106 , 277400 ,  161300 ,52.69722  ,-6.85556   ,1866      ,1986
 Carlow    ,        6014 ,CLASHGANNA MILLS                 ,       27 , 273800 ,  146200 ,52.5625   ,-6.91111   ,1987      ,1989
 Carlow    ,         375 ,OAK PARK                         ,       62 , 273000 ,  179500 ,52.86111  ,-6.91528   ,2003      ,(null)
@@ -23,7 +23,7 @@ Carlow    ,        4814 ,CARLOW (Oak Park)                ,       61 , 273000 , 
 Carlow    ,        7414 ,BORRIS                           ,       86 , 272508 ,  150661 ,52.60278  ,-6.93056   ,1890      ,1895
 Carlow    ,        6214 ,BAGENALSTOWN (RATHELLIN)         ,       52 , 270000 ,  163500 ,52.71806  ,-6.96389   ,1990      ,1993
 Carlow    ,        2015 ,RATHVILLY G.S.                   ,      122 , 288000 ,  181700 ,52.87917  ,-6.69306   ,1949      ,1988
-Carlow    ,         515 ,TULLOW (MT.ST.JOSEPH'S)          ,       79 , 285800 ,  171800 ,52.79028  ,-6.72778   ,1949      ,1960
+Carlow    ,         515 ,TULLOW (MT.ST.JOSEPH"S)          ,       79 , 285800 ,  171800 ,52.79028  ,-6.72778   ,1949      ,1960
 Carlow    ,        2115 ,HACKETSTOWN (Voc.Sch.)           ,      189 , 297500 ,  179900 ,52.86111  ,-6.55278   ,1949      ,(null)
 Carlow    ,        1815 ,BALLON G.S.                      ,       82 , 282900 ,  166500 ,52.74306  ,-6.77222   ,1949      ,1980
 Carlow    ,        6914 ,GARRYHILL (MILLTOWN)             ,      107 , 278600 ,  158700 ,52.67389  ,-6.8375    ,2003      ,2005
@@ -32,7 +32,7 @@ Cavan     ,        9937 ,M.SWANLINBAR FOREST              ,      183 , 220700 , 
 Cavan     ,        2637 ,COOTEHILL (VOC.SCH.)             ,      107 , 259800 ,  314500 ,54.07639  ,-7.08611   ,1951      ,1968
 Cavan     ,         738 ,KINGSCOURT G.S.                  ,      105 , 278600 ,  295900 ,53.90694  ,-6.80417   ,1943      ,1988
 Cavan     ,         237 ,BALLYCONNELL G.S.                ,       55 , 227400 ,  319000 ,54.11944  ,-7.58056   ,1942      ,1959
-Cavan     ,        2431 ,BAILIEBORO' G.S.                 ,      162 , 267700 ,  296900 ,53.91667  ,-6.96944   ,1944      ,1966
+Cavan     ,        2431 ,BAILIEBORO" G.S.                 ,      162 , 267700 ,  296900 ,53.91667  ,-6.96944   ,1944      ,1966
 Cavan     ,         637 ,CROSSDONEY (KEVIT CASTLE)        ,       64 , 238200 ,  301200 ,53.95833  ,-7.41806   ,1923      ,1975
 Cavan     ,         631 ,VIRGINIA (FOR.STN.)              ,       96 , 258100 ,  287800 ,53.83611  ,-7.11667   ,1942      ,1950
 Cavan     ,        2937 ,BALLINAGH G.S.                   ,       93 , 238900 ,  298400 ,53.93333  ,-7.40694   ,1951      ,1968
@@ -44,7 +44,7 @@ Cavan     ,        1431 ,MULLAGH G.S.                     ,      107 , 269600 , 
 Cavan     ,        1337 ,CAVAN (TRANS.STN.)               ,       88 , 242100 ,  305500 ,53.99722  ,-7.35833   ,1942      ,1987
 Cavan     ,         675 ,BALLYHAISE                       ,       78 , 245200 ,  311600 ,54.05139  ,-7.30972   ,2003      ,(null)
 Cavan     ,        3131 ,VIRGINIA G.S.                    ,       91 , 260400 ,  287500 ,53.83333  ,-7.08194   ,1951      ,1990
-Cavan     ,        3631 ,BAILIEBORO' CASTLE               ,      152 , 266200 ,  298100 ,53.92778  ,-6.99167   ,1958      ,1973
+Cavan     ,        3631 ,BAILIEBORO" CASTLE               ,      152 , 266200 ,  298100 ,53.92778  ,-6.99167   ,1958      ,1973
 Cavan     ,        3437 ,COOTEHILL (COMP. SCH.)           ,       98 , 261100 ,  313800 ,54.06944  ,-7.06667   ,1968      ,1969
 Cavan     ,         430 ,BALLYJAMESDUFF G.S.              ,      110 , 252300 ,  290800 ,53.86389  ,-7.20556   ,1942      ,1984
 Cavan     ,        1737 ,GOWNA (SALLAGHAN BRIDGE)         ,       76 , 232700 ,  293100 ,53.88611  ,-7.50278   ,1944      ,1973
@@ -119,7 +119,7 @@ Clare     ,        1618 ,BALLYVAUGHAN (CORKSCREW HILL)    ,      204 , 119700 , 
 Clare     ,        1617 ,LISDOONVARNA (CAHERMACNAGHTEN)   ,      175 , 119600 ,  199900 ,53.04361  ,-9.19861   ,1985      ,2005
 Clare     ,        1611 ,SIXMILEBRIDGE G.S.               ,       14 , 147700 ,  165900 ,52.74167  ,-8.775     ,1943      ,1972
 Clare     ,        3785 ,INAGH (Mount Callan)             ,      107 , 116605 ,  177420 ,52.84167  ,-9.23833   ,2019      ,(null)
-Clare     ,        1721 ,BALLYVAUGHAN (GREGAN'S CASTLE)   ,       64 , 120700 ,  203500 ,53.07639  ,-9.18333   ,1968      ,1969
+Clare     ,        1721 ,BALLYVAUGHAN (GREGAN"S CASTLE)   ,       64 , 120700 ,  203500 ,53.07639  ,-9.18333   ,1968      ,1969
 Clare     ,        1718 ,CARRON                           ,      145 , 127780 ,  198525 ,53.03278  ,-9.07722   ,1974      ,2019
 Clare     ,        1717 ,ENNISTYMON (Ballymacraven)       ,       57 , 113945 ,  190220 ,52.95611  ,-9.28111   ,1987      ,2001
 Clare     ,        1711 ,BROADFORD G.S.                   ,       34 , 157300 ,  172900 ,52.80556  ,-8.63333   ,1943      ,1964
@@ -136,7 +136,7 @@ Clare     ,        5211 ,KILRUSH BALLYNOTE WEST           ,       27 , 100500 , 
 Clare     ,        5311 ,MONEYPOINT E.S.B.                ,       20 , 103065 ,  152070 ,52.61167  ,-9.43167   ,1986      ,2020
 Clare     ,        1918 ,NEWMARKET-ON-FERGUS LATOON       ,       15 , 138000 ,  171100 ,52.78778  ,-8.91972   ,1984      ,1999
 Clare     ,         518 ,SHANNON AIRPORT                  ,       15 , 137900 ,  160300 ,52.69028  ,-8.91806   ,1937      ,(null)
-Clare     ,        1917 ,DOONBEG (MCGRATH'S POINT)        ,       11 ,  96900 ,  166900 ,52.74361  ,-9.52694   ,1999      ,2000
+Clare     ,        1917 ,DOONBEG (MCGRATH"S POINT)        ,       11 ,  96900 ,  166900 ,52.74361  ,-9.52694   ,1999      ,2000
 Clare     ,        5519 ,TUAMGRANEY (RAHEEN NURSERIES)    ,       82 , 165800 ,  182400 ,52.89167  ,-8.50833   ,1960      ,1960
 Clare     ,         218 ,ENNIS CAPPALEA                   ,      113 , 127000 ,  177000 ,52.83889  ,-9.08333   ,1945      ,1953
 Clare     ,        5480 ,LH_LOOP_HEAD                     ,       70 ,  69000 ,  147300 ,52.56111  ,-9.93222   ,2000      ,(null)
@@ -222,7 +222,7 @@ Cork      ,        1504 ,RATHDUFF G.S.                    ,      138 , 159800 , 
 Cork      ,        3402 ,SHERKIN ISLAND                   ,       20 , 100820 ,   25760 ,51.47639  ,-9.42833   ,1972      ,(null)
 Cork      ,        1506 ,MEELIN G.S.                      ,      238 , 129700 ,  113000 ,52.26389  ,-9.02917   ,1944      ,1979
 Cork      ,        3404 ,GLANMIRE (NORTHESK)              ,        5 , 173800 ,   72500 ,51.90417  ,-8.38056   ,1952      ,1960
-Cork      ,         804 ,FARMER'S CROSS (CORK APT.SITE)   ,      165 , 166700 ,   66200 ,51.84722  ,-8.48333   ,1959      ,1962
+Cork      ,         804 ,FARMER"S CROSS (CORK APT.SITE)   ,      165 , 166700 ,   66200 ,51.84722  ,-8.48333   ,1959      ,1962
 Cork      ,         775 ,SherkinIsland                    ,       21 , 100781 ,   25801 ,51.47639  ,-9.42778   ,2004      ,(null)
 Cork      ,         802 ,CLONAKILTY (SHANNON VALE)        ,       41 , 138900 ,   44500 ,51.65     ,-8.88333   ,1957      ,1966
 Cork      ,        3504 ,CROSSHAVEN G.S.                  ,        6 , 179000 ,   61200 ,51.80278  ,-8.30417   ,1952      ,1993
@@ -243,7 +243,7 @@ Cork      ,        1604 ,MACROOM G.S.                     ,       75 , 133700 , 
 Cork      ,        1602 ,DRIMOLEAGUE G.S.                 ,       61 , 112500 ,   45800 ,51.65833  ,-9.26528   ,1948      ,1990
 Cork      ,        3804 ,MACROOM (Renaniree)              ,      198 , 120100 ,   72600 ,51.9      ,-9.16111   ,1959      ,(null)
 Cork      ,        3802 ,INNISHANNONN (SKEVENISH)         ,       91 , 153900 ,   59000 ,51.78139  ,-8.66806   ,1981      ,1985
-Cork      ,        3806 ,YOUGHAL (ST.RAPHAEL'S HOSP.)     ,       70 , 210100 ,   77500 ,51.95     ,-7.85278   ,1963      ,2012
+Cork      ,        3806 ,YOUGHAL (ST.RAPHAEL"S HOSP.)     ,       70 , 210100 ,   77500 ,51.95     ,-7.85278   ,1963      ,2012
 Cork      ,        3904 ,CORK AIRPORT                     ,      155 , 166500 ,   66200 ,51.84722  ,-8.48611   ,1961      ,(null)
 Cork      ,        3902 ,SCHULL WHITE CASTLE COTTAGE      ,       59 ,  95000 ,   31400 ,51.52528  ,-9.51306   ,1982      ,2007
 Cork      ,        3906 ,BALLYDESMOND (EAST) G.S.         ,      207 , 116000 ,  103600 ,52.17778  ,-9.22778   ,1964      ,1967
@@ -409,7 +409,7 @@ Cork      ,        9206 ,Mallow(Lavally_Lower)            ,      145 , 159281 , 
 Cork      ,        9704 ,M.BALLINGEARY (Tooreenaneen)     ,      323 , 113100 ,   64500 ,51.82639  ,-9.26111   ,1948      ,(null)
 Cork      ,        2402 ,DUNMANWAY (INCHANADREEN)         ,      125 , 119400 ,   54500 ,51.7375   ,-9.16667   ,1950      ,1995
 Cork      ,        1202 ,KINSALE (SCILLY HSE.)            ,       19 , 163900 ,   50600 ,51.70694  ,-8.52222   ,1921      ,1966
-Cork      ,        1201 ,BANTRY (ST.JOSEPH'S HOSP.)       ,       46 , 100100 ,   49000 ,51.68472  ,-9.44444   ,1974      ,1990
+Cork      ,        1201 ,BANTRY (ST.JOSEPH"S HOSP.)       ,       46 , 100100 ,   49000 ,51.68472  ,-9.44444   ,1974      ,1990
 Cork      ,         210 ,ROCKCHAPEL G.S.                  ,      198 , 121700 ,  115900 ,52.28889  ,-9.14722   ,1941      ,1954
 Cork      ,        9702 ,M.COOLKELURE (DROMDRASDIL)       ,      232 , 117300 ,   54300 ,51.73472  ,-9.19722   ,1948      ,1949
 Cork      ,        9602 ,M.CAPE CLEAR BIRD OBSERVATIONS   ,       15 ,  95300 ,   21900 ,51.44028  ,-9.50583   ,1985      ,1988
@@ -425,7 +425,7 @@ Cork      ,        2404 ,WATERGRASSHILL                   ,      184 , 176400 , 
 Cork      ,        2410 ,ROCKCHAPEL (Cappaphaudeen)       ,      256 , 116000 ,  110800 ,52.24278  ,-9.23056   ,1982      ,2009
 Cork      ,        1206 ,BOHERBUE G.S.                    ,      201 , 126600 ,  101300 ,52.15833  ,-9.07222   ,1944      ,1972
 Cork      ,        9804 ,M.BALLYVOURNEY (Knockacommeen)   ,      415 , 116000 ,   80700 ,51.97222  ,-9.22222   ,1948      ,(null)
-Cork      ,        9802 ,M.COOLKELURE (PIG'S HILL)        ,      320 , 115700 ,   52000 ,51.71389  ,-9.21944   ,1948      ,1949
+Cork      ,        9802 ,M.COOLKELURE (PIG"S HILL)        ,      320 , 115700 ,   52000 ,51.71389  ,-9.21944   ,1948      ,1949
 Cork      ,        2406 ,GLENVILLE G.S.                   ,      152 , 170900 ,   88100 ,52.04444  ,-8.42361   ,1944      ,1996
 Cork      ,        9904 ,M.INCHIGEELAGH (Pipe Hill)       ,      299 , 120100 ,   62100 ,51.80556  ,-9.15833   ,1948      ,(null)
 Cork      ,         204 ,CARRIGTUOHILL RECTORY            ,       33 , 188500 ,   73800 ,51.91667  ,-8.16667   ,1938      ,1943
@@ -484,7 +484,7 @@ Donegal   ,        1541 ,ARDARA(KILGOLE)                  ,       15 , 173200 , 
 Donegal   ,        1542 ,DRUMKEEN(LEGLAND)                ,      128 , 214300 ,  402600 ,54.87083  ,-7.77778   ,1974      ,1977
 Donegal   ,        1543 ,KILMACRENNAN (Massreagh)         ,       49 , 213845 ,  420170 ,55.02889  ,-7.78417   ,2002      ,(null)
 Donegal   ,         241 ,GWEEDORE (MEENACUING)            ,       84 , 188000 ,  422100 ,55.04583  ,-8.1875    ,1948      ,1958
-Donegal   ,         144 ,DUNFANAGHY (St.Patrick's)        ,        9 , 202100 ,  437400 ,55.18333  ,-7.96667   ,1880      ,1948
+Donegal   ,         144 ,DUNFANAGHY (St.Patrick"s)        ,        9 , 202100 ,  437400 ,55.18333  ,-7.96667   ,1880      ,1948
 Donegal   ,         243 ,RAMELTON (LENNON BANK)           ,       21 , 222800 ,  421500 ,55.04028  ,-7.64306   ,1948      ,1961
 Donegal   ,         143 ,BUNCRANA RECTORY                 ,       15 , 235100 ,  431900 ,55.13333  ,-7.45      ,1929      ,1944
 Donegal   ,         440 ,DONEGAL (CULLIONBOY W.W.)        ,       94 , 199700 ,  382200 ,54.6875   ,-8.00417   ,1948      ,1952
@@ -554,8 +554,8 @@ Donegal   ,         545 ,MALIN HEAD (Manual)              ,       22 , 241900 , 
 Donegal   ,        2244 ,HORN HEAD                        ,       50 , 200826 ,  438068 ,55.18972  ,-7.98778   ,1892      ,1917
 Donegal   ,        2240 ,FROSSES (MEENAGRAN)              ,       76 , 184500 ,  383600 ,54.7      ,-8.24028   ,1972      ,2011
 Donegal   ,        8085 ,Ballyshannon_Cherrymount         ,       30 , 190065 ,  360410 ,54.49194  ,-8.15417   ,2020      ,(null)
-Donegal   ,        2237 ,BALLYSHANNON (Cathleen's Fall)   ,       38 , 188660 ,  361120 ,54.49833  ,-8.17583   ,1945      ,(null)
-Donegal   ,        2242 ,QUIGLEY'S POINT (Three Trees)    ,        6 , 250090 ,  429015 ,55.10583  ,-7.21583   ,2002      ,(null)
+Donegal   ,        2237 ,BALLYSHANNON (Cathleen"s Fall)   ,       38 , 188660 ,  361120 ,54.49833  ,-8.17583   ,1945      ,(null)
+Donegal   ,        2242 ,QUIGLEY"S POINT (Three Trees)    ,        6 , 250090 ,  429015 ,55.10583  ,-7.21583   ,2002      ,(null)
 Donegal   ,        2241 ,KILCLOONEY MORE                  ,       27 , 171685 ,  396140 ,54.81222  ,-8.44111   ,1995      ,(null)
 Donegal   ,        8185 ,Glenveagh_National_Park          ,       52 , 204040 ,  422655 ,55.05139  ,-7.9375    ,2020      ,(null)
 Donegal   ,        8285 ,Illies_WTP                       ,      152 , 241620 ,  433920 ,55.15083  ,-7.34806   ,2020      ,(null)
@@ -600,14 +600,14 @@ Dublin    ,        3524 ,BALLYEDMONDUFF HOUSE             ,      335 , 318500 , 
 Dublin    ,        1532 ,BALBRIGGAN (KILSAUGH)            ,       40 , 320500 ,  262200 ,53.59583  ,-6.17917   ,1969      ,1992
 Dublin    ,         432 ,LUSK (NEVITT)                    ,       47 , 317900 ,  256900 ,53.54861  ,-6.22083   ,1923      ,1982
 Dublin    ,        3723 ,CASEMENT                         ,       91 , 304100 ,  229500 ,53.30556  ,-6.43889   ,1944      ,(null)
-Dublin    ,         823 ,TALLAGHT (ST.MAELRUAIN'S)        ,       99 , 308900 ,  227100 ,53.28333  ,-6.36667   ,1945      ,1950
+Dublin    ,         823 ,TALLAGHT (ST.MAELRUAIN"S)        ,       99 , 308900 ,  227100 ,53.28333  ,-6.36667   ,1945      ,1950
 Dublin    ,        1624 ,GLENCULLEN (TIBRADDEN)           ,      335 , 315900 ,  221300 ,53.22917  ,-6.26389   ,1950      ,1967
 Dublin    ,        1623 ,DUBLIN (MARROWBONE LANE)         ,       15 , 314300 ,  233800 ,53.34167  ,-6.28333   ,1954      ,1962
 Dublin    ,        3923 ,DUBLIN (Merrion Square)          ,       13 , 316390 ,  233655 ,53.34056  ,-6.25333   ,1948      ,(null)
 Dublin    ,        4023 ,DUBLIN (ARUS AN UACHTARAIN)      ,       46 , 312100 ,  235600 ,53.35833  ,-6.31667   ,1948      ,1973
 Dublin    ,         150 ,DUBLIN AIRPORT-CHECK             ,       69 , 315700 ,  243000 ,53.42444  ,-6.25972   ,1994      ,1997
 Dublin    ,         832 ,BALBRIGGAN (TRANS.STN.)          ,       26 , 319800 ,  263700 ,53.60972  ,-6.19028   ,1949      ,1968
-Dublin    ,        4123 ,DUBLIN (UPR.O'CONNELL ST.)       ,       16 , 315900 ,  234900 ,53.35139  ,-6.25972   ,1948      ,1979
+Dublin    ,        4123 ,DUBLIN (UPR.O"CONNELL ST.)       ,       16 , 315900 ,  234900 ,53.35139  ,-6.25972   ,1948      ,1979
 Dublin    ,        4223 ,LEIXLIP (GEN.STN.)               ,       42 , 300700 ,  235800 ,53.3625   ,-6.4875    ,1949      ,2012
 Dublin    ,         124 ,FOXROCK (Clarebeg)               ,       59 , 323300 ,  225000 ,53.26111  ,-6.15278   ,1890      ,1955
 Dublin    ,        4323 ,RATHCOOLE G.S.                   ,      123 , 302400 ,  226800 ,53.28194  ,-6.46389   ,1949      ,1970
@@ -620,14 +620,14 @@ Dublin    ,         932 ,GARRISTOWN G.S.                  ,      126 , 307000 , 
 Dublin    ,        1923 ,GLENASMOLE D.C.W.W.              ,      158 , 309000 ,  222200 ,53.23889  ,-6.36667   ,1885      ,2014
 Dublin    ,        5523 ,GLENASMOLE (Castlekelly)         ,      183 , 310200 ,  220800 ,53.22639  ,-6.35      ,1959      ,2013
 Dublin    ,        5580 ,LH_KISH                          ,       11 , 338200 ,  231000 ,53.31083  ,-5.92583   ,2000      ,(null)
-Dublin    ,        5623 ,GLENASMOLE (Supt's Lodge)        ,      152 , 309200 ,  222200 ,53.23889  ,-6.36389   ,1959      ,(null)
+Dublin    ,        5623 ,GLENASMOLE (Supt"s Lodge)        ,      152 , 309200 ,  222200 ,53.23889  ,-6.36389   ,1959      ,(null)
 Dublin    ,        5680 ,LH_BAILY                         ,       13 , 329561 ,  236331 ,53.36167  ,-6.05472   ,2000      ,(null)
 Dublin    ,        5723 ,DUBLIN (BALLSBRIDGE)             ,        9 , 318200 ,  232300 ,53.32778  ,-6.225     ,1959      ,1972
 Dublin    ,         532 ,DUBLIN AIRPORT                   ,       71 , 316900 ,  243400 ,53.42778  ,-6.24083   ,1939      ,(null)
 Dublin    ,        1023 ,LAMBAY ISLAND                    ,        8 , 330500 ,  249900 ,53.48333  ,-6.03333   ,1907      ,1943
 Dublin    ,        5823 ,KILLINEY (TEDBURN)               ,      122 , 325700 ,  225400 ,53.26389  ,-6.11667   ,1961      ,1992
 Dublin    ,        2024 ,SHANGANAGH                       ,        9 , 325900 ,  223200 ,53.24444  ,-6.11389   ,1966      ,1991
-Dublin    ,        2023 ,DUN LAOGHAIRE (PEOPLE'S PARK)    ,        8 , 324800 ,  228100 ,53.28889  ,-6.12778   ,1901      ,1992
+Dublin    ,        2023 ,DUN LAOGHAIRE (PEOPLE"S PARK)    ,        8 , 324800 ,  228100 ,53.28889  ,-6.12778   ,1901      ,1992
 Dublin    ,        5923 ,DUBLIN (BALLYMUN AVE.)           ,       61 , 314200 ,  239000 ,53.38889  ,-6.28333   ,1962      ,1970
 Dublin    ,        5985 ,DUBLIN (Glasnevin)               ,       21 , 315175 ,  236910 ,53.368    ,-6.27028   ,2018      ,(null)
 Dublin    ,        6023 ,HOWTH (D.C.)                     ,        6 , 327700 ,  239400 ,53.38889  ,-6.08056   ,1962      ,1994
@@ -644,7 +644,7 @@ Dublin    ,        2132 ,DUBLIN AIRPORT II                ,       69 , 315700 , 
 Dublin    ,        6823 ,TALLAGHT                         ,       85 , 309900 ,  227500 ,53.28611  ,-6.35139   ,1966      ,1969
 Dublin    ,        6923 ,TIBRADDEN (LARCH HILL)           ,      229 , 314700 ,  223900 ,53.25278  ,-6.28056   ,1967      ,1992
 Dublin    ,        7023 ,CLONDALKIN                       ,       53 , 307700 ,  231900 ,53.32639  ,-6.38333   ,1967      ,1985
-Dublin    ,        7123 ,DUBLIN (ST.PAUL'S COLL.)         ,       24 , 320500 ,  237300 ,53.37222  ,-6.18889   ,1967      ,1970
+Dublin    ,        7123 ,DUBLIN (ST.PAUL"S COLL.)         ,       24 , 320500 ,  237300 ,53.37222  ,-6.18889   ,1967      ,1970
 Dublin    ,        7223 ,RATHCOOLE-SAGGART                ,      107 , 303200 ,  227300 ,53.28611  ,-6.45278   ,1969      ,2001
 Dublin    ,        7323 ,STILLORGAN (PARK HSE.)           ,       52 , 320600 ,  228000 ,53.28889  ,-6.19167   ,1971      ,1973
 Dublin    ,        1123 ,DUBLIN (LEESON ST.)              ,       15 , 315500 ,  232900 ,53.33333  ,-6.26667   ,1938      ,1954
@@ -663,7 +663,7 @@ Dublin    ,         332 ,SKERRIES (MILVERTON HALL)        ,       64 , 323100 , 
 Dublin    ,        9223 ,DUN LAOGHAIRE                    ,       30 , 324500 ,  227800 ,53.28556  ,-6.1325    ,1997      ,(null)
 Dublin    ,        9423 ,LUCAN (HERMITAGE G.C.)           ,       46 , 304100 ,  235800 ,53.36194  ,-6.43667   ,1999      ,1999
 Dublin    ,        9523 ,DUBLIN (BLACKROCK COLLEGE)       ,        8 , 320400 ,  229700 ,53.30417  ,-6.19361   ,2003      ,2003
-Dublin    ,        9623 ,KNOCKLYON (ST.COLUMCILLE'S)      ,       88 , 312300 ,  226500 ,53.27722  ,-6.31667   ,2004      ,2005
+Dublin    ,        9623 ,KNOCKLYON (ST.COLUMCILLE"S)      ,       88 , 312300 ,  226500 ,53.27722  ,-6.31667   ,2004      ,2005
 Dublin    ,        9723 ,Dublin-Navan_Road                ,       52 , 311300 ,  236700 ,53.36917  ,-6.32722   ,2010      ,2011
 Dublin    ,         623 ,BRITTAS                          ,      246 , 303500 ,  221400 ,53.23333  ,-6.45      ,1938      ,1943
 Dublin    ,        9823 ,DUBLIN (MERRION SQUARE)          ,       13 , 316400 ,  233500 ,53.33889  ,-6.25278   ,2011      ,2011
@@ -692,7 +692,7 @@ Galway    ,        2719 ,KILTORMER                        ,       78 , 181900 , 
 Galway    ,        2721 ,LOUGHREA (Rathruddy West)        ,       76 , 160015 ,  218055 ,53.21167  ,-8.56583   ,1998      ,(null)
 Galway    ,        1318 ,SHANAGLISH G.S.                  ,       40 , 143900 ,  195300 ,53.00556  ,-8.83611   ,1943      ,1990
 Galway    ,        2726 ,LEENANE (Glanagimla)             ,       17 ,  89560 ,  262950 ,53.605    ,-9.66917   ,2005      ,(null)
-Galway    ,        2728 ,BALLINASLOE (ST.ENDA'S)          ,       56 , 186700 ,  231900 ,53.3375   ,-8.19917   ,1988      ,1993
+Galway    ,        2728 ,BALLINASLOE (ST.ENDA"S)          ,       56 , 186700 ,  231900 ,53.3375   ,-8.19917   ,1988      ,1993
 Galway    ,         227 ,GALWAY (Grammar Sch.)            ,       20 , 130500 ,  225500 ,53.275    ,-9.04167   ,1931      ,1958
 Galway    ,        1321 ,ARDRAHAN G.S.                    ,       43 , 146000 ,  212000 ,53.15556  ,-8.80694   ,1952      ,1983
 Galway    ,        1325 ,BALLYNAHINCH (FOR.STN.)          ,       27 ,  75300 ,  248600 ,53.47222  ,-9.87778   ,1962      ,1985
@@ -737,7 +737,7 @@ Galway    ,        1628 ,CREGGS G.S.                      ,       72 , 175900 , 
 Galway    ,         827 ,MOYCULLEN HSE.                   ,      122 , 121200 ,  232100 ,53.33333  ,-9.18333   ,1940      ,1945
 Galway    ,        1626 ,CONNEMARA NATIONAL PARK          ,       58 ,  71300 ,  257500 ,53.55139  ,-9.9425    ,1982      ,2010
 Galway    ,        3985 ,CONNEMARA NATIONAL PARK          ,       58 ,  71330 ,  257425 ,53.55111  ,-9.94222   ,2018      ,(null)
-Galway    ,         828 ,BALLINASLOE(ST.BRIGID'S HOSP.)   ,       43 , 186300 ,  230900 ,53.32778  ,-8.20556   ,1941      ,1975
+Galway    ,         828 ,BALLINASLOE(ST.BRIGID"S HOSP.)   ,       43 , 186300 ,  230900 ,53.32778  ,-8.20556   ,1941      ,1975
 Galway    ,        4027 ,MAAM (AGR.RES.STN.)              ,       34 ,  93000 ,  255200 ,53.53611  ,-9.61389   ,1968      ,1978
 Galway    ,        4085 ,TERRYLAND WTP                    ,       16 , 129655 ,  226705 ,53.28611  ,-9.053     ,2018      ,(null)
 Galway    ,         275 ,MACE HEAD                        ,       21 ,  73400 ,  232276 ,53.32583  ,-9.90083   ,2003      ,(null)
@@ -886,7 +886,7 @@ Kerry     ,         903 ,BALLINSKELLIGS G.S.              ,       12 ,  43300 , 
 Kerry     ,         303 ,KENMARE (DROMORE CASTLE)         ,       27 ,  81500 ,   68400 ,51.85556  ,-9.71944   ,1874      ,1958
 Kerry     ,         905 ,CASTLEMAINE G.S.                 ,        8 ,  83900 ,  103300 ,52.16944  ,-9.69722   ,1941      ,1986
 Kerry     ,        4505 ,DEREEN                           ,       23 ,  45800 ,   74000 ,51.89667  ,-10.24028  ,1995      ,(null)
-Kerry     ,         505 ,KILLARNEY (ST.FINAN'S HOSP.)     ,       55 ,  96400 ,   91600 ,52.06667  ,-9.51111   ,1889      ,1988
+Kerry     ,         505 ,KILLARNEY (ST.FINAN"S HOSP.)     ,       55 ,  96400 ,   91600 ,52.06667  ,-9.51111   ,1889      ,1988
 Kerry     ,         906 ,RATHMORE G.S.                    ,      162 , 117000 ,   93200 ,52.08472  ,-9.21111   ,1941      ,1985
 Kerry     ,        4605 ,ROADS                            ,      125 ,  53180 ,   87365 ,52.01944  ,-10.13944  ,1996      ,(null)
 Kerry     ,        4611 ,TARBERT ISLAND                   ,       15 , 107800 ,  149300 ,52.5875   ,-9.36111   ,1968      ,2013
@@ -934,12 +934,12 @@ Kerry     ,        1103 ,SNEEM                            ,       14 ,  68900 , 
 Kerry     ,        6685 ,Dingle_WWTP                      ,        7 ,  44500 ,  100500 ,52.135    ,-10.27194  ,2020      ,(null)
 Kerry     ,        1105 ,KILLARNEY (Muckross For.Stn.)    ,       32 ,  97700 ,   88200 ,52.03611  ,-9.49167   ,1941      ,1976
 Kerry     ,        6785 ,Castleisland_WWTP                ,       26 ,  99480 ,  109615 ,52.23     ,-9.47194   ,2020      ,(null)
-Kerry     ,        1109 ,TRALEE (ST.JOHN'S SCH.)          ,       12 ,  83100 ,  114900 ,52.27361  ,-9.7125    ,1969      ,1973
+Kerry     ,        1109 ,TRALEE (ST.JOHN"S SCH.)          ,       12 ,  83100 ,  114900 ,52.27361  ,-9.7125    ,1969      ,1973
 Kerry     ,        1110 ,LISTOWEL G.S.                    ,       47 ,  99000 ,  133900 ,52.44722  ,-9.48611   ,1941      ,1983
 Kerry     ,         603 ,KENMARE (DERREEN)                ,       24 ,  77100 ,   58900 ,51.76944  ,-9.78056   ,1878      ,(null)
 Kerry     ,        2205 ,FARRANFORE (CLOUNLEA)            ,      177 , 104000 ,   99900 ,52.14306  ,-9.40278   ,1950      ,2005
 Kerry     ,        7111 ,TARBERT-Kilpadogue               ,       18 , 106010 ,  147745 ,52.571    ,-9.385     ,2021      ,(null)
-Kerry     ,        2210 ,LISTOWEL (ST.MICHAEL'S COLL.)    ,       30 ,  98900 ,  134400 ,52.45139  ,-9.4875    ,1974      ,1979
+Kerry     ,        2210 ,LISTOWEL (ST.MICHAEL"S COLL.)    ,       30 ,  98900 ,  134400 ,52.45139  ,-9.4875    ,1974      ,1979
 Kerry     ,        2209 ,BLENNERVILLE (CURRAGRAIGUE)      ,       27 ,  81600 ,  111500 ,52.24222  ,-9.73306   ,1996      ,2010
 Kerry     ,         605 ,KILLARNEY (B.V.M.PARK)           ,       34 ,  97000 ,   85700 ,52.01389  ,-9.5       ,1924      ,1991
 Kerry     ,         610 ,ABBEYDORNEY G.S.                 ,       24 ,  85100 ,  122800 ,52.34444  ,-9.68611   ,1941      ,1971
@@ -980,7 +980,7 @@ Kildare   ,        9923 ,Eadestown-Carters_Hill           ,      168 , 295055 , 
 Kildare   ,       10023 ,CELBRIDGE_Moortown               ,       75 , 296540 ,  235165 ,53.35806  ,-6.55083   ,2015      ,(null)
 Kildare   ,        2514 ,LULLYMORE (BORD NA MONA)         ,       84 , 271100 ,  228900 ,53.30556  ,-6.93333   ,1945      ,1992
 Kildare   ,        2814 ,MONASTEREVAN G.S.                ,       67 , 262600 ,  210500 ,53.14167  ,-7.06389   ,1946      ,1984
-Kildare   ,         714 ,KILDARE (ST.BRIGID'S DEANERY)    ,      110 , 273200 ,  212500 ,53.15833  ,-6.90556   ,1939      ,1952
+Kildare   ,         714 ,KILDARE (ST.BRIGID"S DEANERY)    ,      110 , 273200 ,  212500 ,53.15833  ,-6.90556   ,1939      ,1952
 Kildare   ,        2914 ,RATHANGAN G.S.                   ,       79 , 267000 ,  219600 ,53.22222  ,-6.99722   ,1946      ,1992
 Kildare   ,         414 ,MONASTEREVAN (DERRYLEA)          ,       64 , 259900 ,  214700 ,53.17917  ,-7.10417   ,1951      ,1952
 Kildare   ,        3323 ,POULAPHUCA (GEN.STN.)            ,      174 , 294500 ,  208600 ,53.11944  ,-6.58889   ,1937      ,2013
@@ -1001,7 +1001,7 @@ Kildare   ,        4723 ,KILCULLEN G.S.                   ,      116 , 283800 , 
 Kildare   ,        1814 ,ATHY (VOC.SCH.)                  ,       61 , 268600 ,  193300 ,52.98611  ,-6.97778   ,1943      ,1981
 Kildare   ,        4923 ,NEWBRIDGE G.S.                   ,       94 , 280600 ,  215100 ,53.18056  ,-6.79444   ,1949      ,1965
 Kildare   ,        5014 ,ATHY (THE MALTINGS)              ,       61 , 267500 ,  193600 ,52.98889  ,-6.99444   ,1981      ,2002
-Kildare   ,        5114 ,ATHY (ST.JOSEPH'S TERRACE)       ,       61 , 268100 ,  194500 ,52.99722  ,-6.98611   ,1981      ,2003
+Kildare   ,        5114 ,ATHY (ST.JOSEPH"S TERRACE)       ,       61 , 268100 ,  194500 ,52.99722  ,-6.98611   ,1981      ,2003
 Kildare   ,        5223 ,CLANE G.S.                       ,       73 , 287700 ,  227800 ,53.29306  ,-6.68472   ,1952      ,1992
 Kildare   ,        1914 ,BALLYTORE G.S.                   ,       99 , 280000 ,  196000 ,53.00833  ,-6.80833   ,1944      ,1990
 Kildare   ,         523 ,STRAFFAN HSE.                    ,       78 , 291600 ,  229600 ,53.30833  ,-6.625     ,1883      ,1952
@@ -1063,7 +1063,7 @@ Kilkenny  ,        5013 ,DUNGARVAN (Castlefield)          ,       75 , 259775 , 
 Kilkenny  ,        5212 ,MOONCOIN (SILVERSPRING)          ,       15 , 250800 ,  118600 ,52.31667  ,-7.25556   ,1960      ,1993
 Kilkenny  ,        5214 ,COOLGREANY CASTLEWARREN          ,      262 , 259600 ,  162300 ,52.70889  ,-7.11861   ,1982      ,(null)
 Kilkenny  ,        1913 ,URLINGFORD G.S.                  ,      122 , 228300 ,  163500 ,52.72222  ,-7.58056   ,1946      ,1984
-Kilkenny  ,        5413 ,KILKENNY (CRAMER'S GROVE)        ,       85 , 252700 ,  160900 ,52.69639  ,-7.22028   ,2001      ,2002
+Kilkenny  ,        5413 ,KILKENNY (CRAMER"S GROVE)        ,       85 , 252700 ,  160900 ,52.69639  ,-7.22028   ,2001      ,2002
 Kilkenny  ,        5514 ,PAULSTOWN (Shankill Castle)      ,       63 , 266425 ,  160090 ,52.68833  ,-7.01833   ,1984      ,(null)
 Kilkenny  ,        5613 ,KILKENNY (Greenshill)            ,       61 , 250520 ,  156895 ,52.66139  ,-7.25417   ,2010      ,(null)
 Kilkenny  ,        5713 ,KILKENNY CASTLE                  ,       55 , 250850 ,  155723 ,52.65061  ,-7.249287  ,1900      ,1933
@@ -1157,7 +1157,7 @@ Leitrim   ,        7029 ,MOHILL (DRUMCOLLIGAN)            ,       76 , 207000 , 
 Leitrim   ,        2236 ,MANORHAMILTON (Amorset)          ,       76 , 188200 ,  339800 ,54.30694  ,-8.18194   ,1981      ,(null)
 Leitrim   ,        1129 ,FARNAUGHT G.S.                   ,       57 , 212100 ,  290500 ,53.86389  ,-7.81667   ,1944      ,1955
 Limerick  ,        2511 ,KILFINANE G.S.                   ,      190 , 168400 ,  122800 ,52.35556  ,-8.46389   ,1943      ,1985
-Limerick  ,        2611 ,LIMERICK (O'CURRY ST.)G.S.       ,       15 , 157200 ,  156700 ,52.65972  ,-8.63333   ,1944      ,1977
+Limerick  ,        2611 ,LIMERICK (O"CURRY ST.)G.S.       ,       15 , 157200 ,  156700 ,52.65972  ,-8.63333   ,1944      ,1977
 Limerick  ,        2610 ,ATHEA (Templeathea)              ,      122 , 115225 ,  135855 ,52.46806  ,-9.24806   ,1985      ,(null)
 Limerick  ,        1310 ,TOURNAFULLA G.S.                 ,      160 , 122100 ,  124500 ,52.36667  ,-9.14444   ,1943      ,1995
 Limerick  ,        1311 ,KILMEEDY (HEATHFIELD)            ,      158 , 139700 ,  130100 ,52.41944  ,-8.88611   ,1938      ,1963
@@ -1167,7 +1167,7 @@ Limerick  ,         710 ,ATHEA G.S.                       ,       81 , 112400 , 
 Limerick  ,         410 ,ABBEYFEALE (SPRINGMOUNT)         ,      112 , 115300 ,  128000 ,52.39722  ,-9.24444   ,1917      ,1975
 Limerick  ,        2911 ,ASKEATON G.S.                    ,       15 , 134300 ,  150300 ,52.6      ,-8.96944   ,1951      ,1972
 Limerick  ,         411 ,KNOCKLONG (KILFRUSH)             ,       98 , 171500 ,  133900 ,52.45556  ,-8.41944   ,1917      ,1951
-Limerick  ,        1410 ,ABBEYFEALE (ST.ITA'S COLL.)      ,       64 , 111500 ,  126500 ,52.38333  ,-9.3       ,1947      ,1983
+Limerick  ,        1410 ,ABBEYFEALE (ST.ITA"S COLL.)      ,       64 , 111500 ,  126500 ,52.38333  ,-9.3       ,1947      ,1983
 Limerick  ,        3011 ,SHANAGOLDEN G.S.                 ,       35 , 125400 ,  147300 ,52.57222  ,-9.1       ,1951      ,1981
 Limerick  ,        3019 ,CAPPAMORE G.S.                   ,       60 , 177000 ,  151500 ,52.61389  ,-8.33889   ,1943      ,1987
 Limerick  ,        1419 ,GLENSTAL PRIORY                  ,      116 , 173700 ,  156700 ,52.66111  ,-8.38889   ,1956      ,1959
@@ -1237,7 +1237,7 @@ Longford  ,        1429 ,BALLINALEE (FOR.STN.)            ,       61 , 222700 , 
 Longford  ,        1430 ,BALLYMAHON (VOC.SCH.)            ,       58 , 215200 ,  257600 ,53.56806  ,-7.77083   ,1957      ,1994
 Longford  ,        1629 ,CLOONDRA O.P.W.                  ,       48 , 206000 ,  276000 ,53.73333  ,-7.90833   ,1893      ,1996
 Longford  ,        4029 ,KENAGH (DERRAGHAN)               ,       59 , 206200 ,  263300 ,53.61944  ,-7.90694   ,1951      ,1993
-Longford  ,        4429 ,LONGFORD (St.Joseph's Hospital)  ,       55 , 214000 ,  274900 ,53.72361  ,-7.7875    ,1954      ,1988
+Longford  ,        4429 ,LONGFORD (St.Joseph"s Hospital)  ,       55 , 214000 ,  274900 ,53.72361  ,-7.7875    ,1954      ,1988
 Longford  ,        4929 ,LANESBORO (Doire Dharog)         ,       49 , 204400 ,  268900 ,53.66944  ,-7.93333   ,1964      ,(null)
 Longford  ,        1830 ,GRANARD SPRINGSTOWN              ,       70 , 238100 ,  280900 ,53.77583  ,-7.42167   ,1985      ,2005
 Longford  ,        5129 ,KENAGH (LOUGH BANNOW)            ,       61 , 209700 ,  263900 ,53.625    ,-7.85278   ,1970      ,1998
@@ -1260,7 +1260,7 @@ Louth     ,        2738 ,ARDEE O.P.W.                     ,       29 , 295800 , 
 Louth     ,        1338 ,OMEATH                           ,       12 , 314155 ,  316690 ,54.08667  ,-6.25639   ,1943      ,(null)
 Louth     ,        2838 ,TERMONFECKIN (AN GRIANAN)        ,       15 , 314300 ,  279800 ,53.75556  ,-6.26667   ,1970      ,1997
 Louth     ,        2938 ,MELLIFONT ABBEY                  ,      183 , 300300 ,  283200 ,53.78889  ,-6.47778   ,1975      ,2017
-Louth     ,         138 ,DUNDALK (Soldier's Point)        ,        6 , 308200 ,  307800 ,54.00833  ,-6.35      ,1946      ,1959
+Louth     ,         138 ,DUNDALK (Soldier"s Point)        ,        6 , 308200 ,  307800 ,54.00833  ,-6.35      ,1946      ,1959
 Louth     ,        1438 ,CLOGHERHEAD G.S.                 ,       23 , 316400 ,  283900 ,53.79167  ,-6.23333   ,1943      ,1983
 Louth     ,        3238 ,CASTLEBELLINGHAM LYNNS           ,       21 , 307500 ,  295000 ,53.89333  ,-6.36389   ,1985      ,2013
 Louth     ,        3338 ,CLOGHER HEAD (Port)              ,       27 , 313300 ,  289500 ,53.84278  ,-6.27778   ,1985      ,(null)
@@ -1274,7 +1274,7 @@ Louth     ,        1638 ,CARLINGFORD G.S.                 ,       14 , 318700 , 
 Louth     ,        4231 ,DROGHEDA SAINT OLIVERS           ,       34 , 306000 ,  274800 ,53.71222  ,-6.39417   ,1982      ,1982
 Louth     ,         485 ,ARDEE (Bohernamoe)               ,       34 , 294180 ,  290285 ,53.85361  ,-6.56944   ,2017      ,(null)
 Louth     ,        1738 ,HACKBALLSCROSS G.S.              ,       69 , 296700 ,  310200 ,54.03194  ,-6.52361   ,1951      ,1984
-Louth     ,        1838 ,ARDEE (St.Brigid's Hosp.)        ,       32 , 295505 ,  290615 ,53.85639  ,-6.54944   ,1952      ,(null)
+Louth     ,        1838 ,ARDEE (St.Brigid"s Hosp.)        ,       32 , 295505 ,  290615 ,53.85639  ,-6.54944   ,1952      ,(null)
 Louth     ,        1938 ,BUSH (VOC.SCH.)                  ,       40 , 318600 ,  306800 ,53.99722  ,-6.19167   ,1954      ,1968
 Louth     ,        5780 ,LH_DUNDALK                       ,       10 , 311800 ,  304300 ,53.97611  ,-6.29528   ,2000      ,(null)
 Louth     ,        2031 ,COLLON G.S.                      ,      128 , 300000 ,  282000 ,53.77778  ,-6.48333   ,1943      ,1990
@@ -1474,7 +1474,7 @@ Monaghan  ,         639 ,MONAGHAN (Castleshane)           ,       94 , 272160 , 
 Monaghan  ,         685 ,EMYVALE WWTP                     ,       58 , 267960 ,  343600 ,54.33667  ,-6.95583   ,2017      ,(null)
 Monaghan  ,        2737 ,ROCKCORRY                        ,       99 , 264600 ,  319000 ,54.11611  ,-7.01167   ,1951      ,2003
 Monaghan  ,        2837 ,SMITHBORO G.S.                   ,       69 , 259000 ,  330600 ,54.22083  ,-7.09583   ,1951      ,1993
-Monaghan  ,         139 ,MONAGHAN (St.Patrick's Coll.)    ,       57 , 266400 ,  335600 ,54.26528  ,-6.98056   ,1951      ,1960
+Monaghan  ,         139 ,MONAGHAN (St.Patrick"s Coll.)    ,       57 , 266400 ,  335600 ,54.26528  ,-6.98056   ,1951      ,1960
 Monaghan  ,        3137 ,NEWBLISS                         ,      113 , 256500 ,  323500 ,54.15694  ,-7.13472   ,1952      ,1969
 Monaghan  ,        3138 ,CASTLEBLAYNEY (DRUMGRISTON)      ,      117 , 285600 ,  316800 ,54.09278  ,-6.69083   ,1984      ,1998
 Monaghan  ,         739 ,MONAGHAN (Knockroe)              ,       67 , 266145 ,  333415 ,54.24528  ,-6.98611   ,1979      ,(null)
@@ -1525,7 +1525,7 @@ Offaly    ,        4119 ,MONEYGALL G.S.                   ,      125 , 203200 , 
 Offaly    ,        1714 ,DAINGEAN G.S.                    ,       78 , 247200 ,  227100 ,53.29167  ,-7.29167   ,1942      ,1992
 Offaly    ,        1719 ,BANAGHER (CANAL HSE.)            ,       37 , 200400 ,  216000 ,53.19444  ,-7.99444   ,1893      ,2015
 Offaly    ,        1722 ,RAHAN G.S.                       ,       54 , 225000 ,  225600 ,53.28056  ,-7.625     ,1942      ,1970
-Offaly    ,         919 ,BIRR (JOHN'S MALL)               ,       57 , 206300 ,  204900 ,53.09444  ,-7.90556   ,1939      ,1955
+Offaly    ,         919 ,BIRR (JOHN"S MALL)               ,       57 , 206300 ,  204900 ,53.09444  ,-7.90556   ,1939      ,1955
 Offaly    ,         922 ,BALLYCUMBER G.S.                 ,       52 , 220900 ,  230700 ,53.32639  ,-7.68611   ,1952      ,1956
 Offaly    ,        4831 ,CORBETSTOWN                      ,       80 , 255500 ,  240000 ,53.40694  ,-7.16583   ,1997      ,(null)
 Offaly    ,        1822 ,FERBANE G.S.                     ,       47 , 211300 ,  224400 ,53.26944  ,-7.83056   ,1942      ,1986
@@ -1745,7 +1745,7 @@ Tipperary ,        7512 ,CASHEL (BALLYKELLY)              ,      110 , 210000 , 
 Tipperary ,        7519 ,NENAGH (TRAVERSTON)              ,      101 , 188563 ,  171652 ,52.79611  ,-8.17028   ,1907      ,1937
 Tipperary ,        7612 ,CASHEL (BALLYDOYLE HOUSE)        ,      123 , 211735 ,  134390 ,52.46139  ,-7.82806   ,1988      ,2021
 Tipperary ,        7619 ,NENAGH (KILBOY)                  ,      100 , 186177 ,  171865 ,52.79788  ,-8.205687  ,1900      ,1921
-Tipperary ,        7712 ,TEMPLEMORE (OUR LADY'S)          ,      120 , 211500 ,  171700 ,52.79639  ,-7.82917   ,1991      ,1999
+Tipperary ,        7712 ,TEMPLEMORE (OUR LADY"S)          ,      120 , 211500 ,  171700 ,52.79639  ,-7.82917   ,1991      ,1999
 Tipperary ,        7812 ,CLOGHEEN (CASTLEGRACE)           ,       46 , 203300 ,  114300 ,52.28056  ,-7.95139   ,1991      ,2000
 Tipperary ,        8012 ,DUNDRUM (GARRYDUFF)              ,       94 , 196000 ,  145200 ,52.55778  ,-8.05972   ,1993      ,2001
 Tipperary ,         612 ,THURLES (HOLME LEA)              ,      110 , 213700 ,  158500 ,52.67778  ,-7.79722   ,1943      ,1959
@@ -1808,7 +1808,7 @@ Waterford ,        2007 ,DUNGARVAN (CLONEA)               ,       14 , 231200 , 
 Waterford ,        5712 ,WATERFORD (NEWTOWN SCH.)         ,       23 , 261500 ,  111300 ,52.25     ,-7.1       ,1965      ,1983
 Waterford ,         207 ,LEAMYBRIEN G.S.                  ,       76 , 232700 ,  102100 ,52.16944  ,-7.52222   ,1944      ,1985
 Waterford ,        6112 ,BALLYSHONOCK RESERVOIR           ,       94 , 246000 ,  109300 ,52.23333  ,-7.32639   ,1972      ,1986
-Waterford ,        2106 ,GLENCAIRN (ST.MARY'S ABBEY)      ,       52 , 199800 ,   98900 ,52.14167  ,-8.00278   ,1944      ,1997
+Waterford ,        2106 ,GLENCAIRN (ST.MARY"S ABBEY)      ,       52 , 199800 ,   98900 ,52.14167  ,-8.00278   ,1944      ,1997
 Waterford ,        2107 ,FENOR_SOUTH                      ,       61 , 253120 ,  100520 ,52.15444  ,-7.22472   ,2008      ,(null)
 Waterford ,        6406 ,TALLOW KILMORE                   ,      104 , 201200 ,   91300 ,52.07389  ,-7.98194   ,1986      ,(null)
 Waterford ,        1085 ,DUNGARVAN WWTP                   ,       15 , 230565 ,   92120 ,52.08056  ,-7.555     ,2018      ,(null)
@@ -1961,7 +1961,7 @@ Wexford   ,         215 ,KILLURIN G.S.                    ,       41 , 296900 , 
 Wexford   ,         608 ,CARRICKBYRNE G.S.                ,       85 , 284300 ,  124100 ,52.3625   ,-6.7625    ,1949      ,1990
 Wexford   ,         116 ,GOREY (Courtown House)           ,       16 , 319800 ,  157200 ,52.65278  ,-6.22917   ,1866      ,1958
 Wexford   ,         616 ,BLACKWATER G.S.                  ,       30 , 312300 ,  134000 ,52.44583  ,-6.34861   ,1949      ,1988
-Wexford   ,         216 ,GOREY (Ram's Gate)               ,       54 , 315000 ,  158900 ,52.66944  ,-6.3       ,1928      ,1957
+Wexford   ,         216 ,GOREY (Ram"s Gate)               ,       54 , 315000 ,  158900 ,52.66944  ,-6.3       ,1928      ,1957
 Wexford   ,        2315 ,FERNS                            ,       64 , 301500 ,  150000 ,52.59167  ,-6.50139   ,1950      ,1984
 Wexford   ,        1208 ,TAGHMON (Kilgarvan)              ,       58 , 288780 ,  122895 ,52.35083  ,-6.69778   ,1998      ,(null)
 Wexford   ,        9815 ,M.BLACKSTAIRS MOUNTAIN           ,      572 , 281600 ,  144700 ,52.54722  ,-6.79667   ,1984      ,1990
