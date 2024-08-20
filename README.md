@@ -39,7 +39,7 @@ This project analyzes historical climate data to examine trends in temperature a
 
 Install the required libraries using pip:
 
-`pip install requests pandas numpy matplotlib seaborn ipython`
+`pip install os requests pandas numpy matplotlib seaborn scikit-learn`
+>Note: The os module is part of Python's standard library, so you don't need to install it separately. The scikit-learn package includes sklearn.
 
-## Data Preparation
 
